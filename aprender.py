@@ -1,0 +1,2 @@
+ESTUDAR ='SABEDORIA'
+print(ESTUDAR)
